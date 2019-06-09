@@ -15,3 +15,4 @@ git status
 git add
 git commit
 ```
+How to set [Java Home on Windows 10](https://www.mkyong.com/java/how-to-set-java_home-on-windows-10/)
