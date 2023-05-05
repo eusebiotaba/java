@@ -16,3 +16,6 @@ git add
 git commit
 ```
 How to set [Java Home on Windows 10](https://www.mkyong.com/java/how-to-set-java_home-on-windows-10/)
+
+
+![vvx-400](https://user-images.githubusercontent.com/50953673/236570930-6abdba03-0ff6-4f55-aa53-856900073ed5.png)
